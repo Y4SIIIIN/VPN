@@ -1,11 +1,6 @@
 <?php
 /*
 Free VPN Telegram Bot (V2Ray Config)
-
-Developer: Abolfazl Kaj (@AbolfazlKaj)
-Channel: https://t.me/IRA_Team
-
-License: MIT
 */
 error_reporting(0);
 //==========================// token //==========================//
@@ -33,8 +28,6 @@ $connect->set_charset('utf8mb4');
 /*
 Free VPN Telegram Bot (V2Ray Config)
 
-Developer: Abolfazl Kaj (@AbolfazlKaj)
-Channel: https://t.me/IRA_Team
 
 License: MIT
 */
